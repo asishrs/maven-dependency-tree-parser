@@ -27,7 +27,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <compiler.version>1.8</compiler.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <powermock.version>1.7.3</powermock.version>
         <velocity.version>1.7</velocity.version>
         <junit.version>4.12</junit.version>
